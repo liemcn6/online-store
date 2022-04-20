@@ -1,2 +1,2 @@
 # online-store
-check3done
+kiến trúc và thiết kế phần mềm
